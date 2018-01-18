@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>PWM_ewp/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>73</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>670</ColumnWidth1><ColumnWidth2>178</ColumnWidth2><ColumnWidth3>44</ColumnWidth3></Build>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5883-23678</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>PWM_ewp</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10004-657</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\pwm.c</Filename><XPos>0</XPos><YPos>10</YPos><SelStart>259</SelStart><SelEnd>259</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00c53cf0><key>iaridepm.enu1</key></Toolbar-00c53cf0></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes><Toolbar-00c55460><key>debuggergui.enu1</key></Toolbar-00c55460></Sizes></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>498</Bottom><Right>147</Right><x>-2</x><y>-2</y><xscreen>149</xscreen><yscreen>143</yscreen><sizeHorzCX>156513</sizeHorzCX><sizeHorzCY>209370</sizeHorzCY><sizeVertCX>156513</sizeVertCX><sizeVertCY>732064</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>141</Bottom><Right>954</Right><x>-2</x><y>-2</y><xscreen>956</xscreen><yscreen>143</yscreen><sizeHorzCX>1004202</sizeHorzCX><sizeHorzCY>209370</sizeHorzCY><sizeVertCX>156513</sizeVertCX><sizeVertCY>209370</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
