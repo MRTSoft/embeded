@@ -12,17 +12,15 @@ ByteLimit=50
 Enabled=0
 ShowSource=1
 [DebugChecksum]
-Checksum=2078002000
+Checksum=-959842636
 [CallStack]
 ShowArgs=0
 [Disassembly]
 MixedMode=1
 [watch_formats]
-Fmt0={W}0:my_crc_t	4	0
-[Breakpoints]
-Bp0=_ "STD_CODE" "{$PROJ_DIR$\main.c}.12.5" 1 0 0 0 "" 0 ""
-Bp1=_ "STD_CODE" "{$PROJ_DIR$\main.c}.8.16" 1 0 0 0 "" 0 ""
-Count=2
+Fmt0={W}0:my_crc	4	0
+Fmt1={W}0:my_crc_t	4	0
+Fmt2={W}0:real_crc	4	0
 [Log file]
 LoggingEnabled=_ 0
 LogFile=_ ""
@@ -30,6 +28,8 @@ Category=_ 0
 [TermIOLog]
 LoggingEnabled=_ 0
 LogFile=_ ""
+[Breakpoints]
+Count=0
 [Aliases]
 Count=0
 SuppressDialog=0
