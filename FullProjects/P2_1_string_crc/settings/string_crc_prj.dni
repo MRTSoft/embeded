@@ -12,7 +12,7 @@ ByteLimit=50
 Enabled=0
 ShowSource=1
 [DebugChecksum]
-Checksum=-1152025577
+Checksum=2032759061
 [CallStack]
 ShowArgs=0
 [Disassembly]
@@ -27,7 +27,5 @@ LogFile=_ ""
 [Breakpoints]
 Count=0
 [Aliases]
-A0=_ "D:\1307A\P1_1\pwm.c" "D:\1307A\git\embeded\FullProjects\P1_1\pwm.c"
-A1=_ "D:\1307A\P1_1\usart.h" ""
-Count=2
+Count=0
 SuppressDialog=0
